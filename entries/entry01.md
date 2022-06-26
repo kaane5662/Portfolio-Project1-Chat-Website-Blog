@@ -3,13 +3,13 @@
 
 ## Why I Want to Do This
 
-During the 2021-2022 school year, my SEP teacher taught us the key fundementals of Javascript. SEP is a 3 year course and every year we have a big reflection project known as the, 'Freedom Project', where we were allowed to make anything we wanted, as long as we apply the stuff we learned during that year. However, the 2021-2022 Freedom project was a bit different since we were forced to use a 3rd party tool to enhance our site. The options were given by difficulty; I chose the hardest difficulty which was Firebase, 5 stars, because I love challenging myself and forcing myself to learn databases will assist my career in the future. Now that I understand Firebase, it was time to put those skills to use and start a project that tests how well I know Firebase.  
+During the 2021-2022 school year, my SEP teacher taught us the key fundementals of Javascript. SEP is a 3 year course and every year we have a big reflection project known as the, 'Freedom Project', where we were allowed to make anything we wanted, as long as we apply the stuff we learned during that year. However, the 2021-2022 Freedom project was a bit different since we were forced to use a 3rd party tool to enhance our site. The options were given by difficulty; I chose the hardest difficulty which was Firebase, 5 stars, because I love challenging myself and forcing myself to learn databases will assist my career in the future. Now that the school year is over and that I understand Firebase, it was time to put those skills to use and start a project that tests how well I know Firebase with a deadline of 2 weeks.
 
 
 
-## Firebase
+## Where the Idea Originated
 
-Google Firebase is a Google-backed application development software that enables developers to develop iOS, Android and Web apps. Firebase provides tools for tracking analytics, reporting and fixing app crashes, creating marketing and product experiment. How does it work? The Firebase Realtime Database lets you build rich, collaborative applications by allowing secure access to the database directly from client-side code. Data is persisted locally, and even while offline, realtime events continue to fire, giving the end user a responsive experience. I will be using Firebase to store/save local client side data such as username, password, and profile statistics. 
+I personally use Discord a lot as it is the platform that I mostly use to engage with my friends and colleagues. Having a lot of experience with Discord, I thought that I should try and make a clone of it, which is where the idea of the Chat-App came from. However, Discord has many features, such as direct messages, subscriptions, threads, etc; I want to keep it simple by just adding one global chat room, but enhance some customization features. As a result, to simplify things I will be adding only one chat room and not add direct messaging. One glaring flaw that I have with Discord is that you are either forced to stick with a light theme or a dark theme, so to change things up I decided the MVP will include themes. Now that I have the concept in mind it was time to start drawing some concepts for what the site was gonna look like.
 
 ## Highcharts/D3
 
